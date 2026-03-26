@@ -1,9 +1,3 @@
-
----
-
-# 📄 File 2: `docs/setup.md`
-
-```md
 # Setup Guide
 
 This guide will walk you through the setup proccess for the application.
@@ -11,7 +5,7 @@ This guide will walk you through the setup proccess for the application.
 ## Requirements
 
 - Python 3.9 or higher
-- pip package mnager
+- pip package manager
 - Internet conection
 
 ## Installation Steps
